@@ -7,3 +7,9 @@ This project aim to solve that problem by automatically checking if a person is 
 - OpenCV
 # Applications
 This project can be deployed in embedded system and used in places like Airport, banks, public places, schools and business center to check if persons are putting on face mask or not
+
+![](detect_mask_images_output1.png)
+
+![](detect_mask_images_output2.png)
+
+![](detect_mask_images_output3.png)
