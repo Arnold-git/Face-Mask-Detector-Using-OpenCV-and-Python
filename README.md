@@ -14,3 +14,9 @@ This project can be deployed in embedded system and used in places like Airport,
 ![](detect_mask_images_output2.png)
 
 ![](detect_mask_images_output3.png)
+
+Deployed App with [streamlit](https://www.streamlit.io/)
+
+# Demo Images of the App
+![App Demo](app_ui.png)
+![](app_ui_2.png)
