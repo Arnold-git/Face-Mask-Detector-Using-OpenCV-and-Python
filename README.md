@@ -20,3 +20,5 @@ Deployed App with [streamlit](https://www.streamlit.io/)
 # Demo Images of the App
 ![App Demo](app_ui.png)
 ![](app_ui_2.png)
+
+Check complete demo [here](https://www.youtube.com/watch?v=Fxpw7CFOV8Y&t=17s)
